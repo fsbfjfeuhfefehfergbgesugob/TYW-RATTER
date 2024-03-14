@@ -1,0 +1,7 @@
+java for the client connection
+
+c# for the server connection
+
+C++ for the user interface.
+
+python for the stub generator
